@@ -1,0 +1,7 @@
+id=Quad9DNS
+name=QUAD9 DNS for Magisk
+version=v1
+versionCode=1
+author=Rom, iAmWiz
+description=Using the Quad9 DNS system-lessy! As simple as that.
+minMagisk=17000
